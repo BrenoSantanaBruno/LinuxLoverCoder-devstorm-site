@@ -474,6 +474,11 @@ util-deprecate@^1.0.2:
   resolved "https://registry.yarnpkg.com/util-deprecate/-/util-deprecate-1.0.2.tgz#450d4dc9fa70de732762fbd2d4a28981419a0ccf"
   integrity sha512-EPD5q1uXyFxJpCrLnCc1nHnq3gOa6DZBocAIiI2TaSCA7VCJ1UJDMagCzIkXNsUYfD1daK//LTEQ8xiIbrHtcw==
 
+vue-cli-plugin-nuxt@~1.0.0-alpha.0:
+  version "1.0.0-alpha.0"
+  resolved "https://registry.yarnpkg.com/vue-cli-plugin-nuxt/-/vue-cli-plugin-nuxt-1.0.0-alpha.0.tgz#b37e8d3274f3fed9cf9fd7f2047309701e31faaf"
+  integrity sha512-ylMKQ1hmQHwW7fwkNWHUyDPopqIYJZlFaYZSvhe0zIUH6pXVJf+wZx48KxnhHTKSh3ScN+gOefNHsdJUTEFNXA==
+
 vue-cli-plugin-tailwind@~3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/vue-cli-plugin-tailwind/-/vue-cli-plugin-tailwind-3.0.0.tgz#2436e781e919acab9539934549999baf33e0a099"
